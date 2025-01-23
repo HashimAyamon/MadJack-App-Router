@@ -1,0 +1,10 @@
+:root {
+  --font-playfair-display: 'Playfair Display', serif;
+}
+
+body {
+  font-family: var(--font-playfair-display);
+  background-color: #566275;
+  color: #FFFFFF;
+  box-sizing: border-box;
+}
