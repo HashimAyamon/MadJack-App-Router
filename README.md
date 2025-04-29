@@ -1,6 +1,5 @@
 # Mad-Jack-App-Router
  
-
 Mad Jack
 Description
 Mad Jack is a modern e-commerce application built with Next.js app Router, designed for fast performance, scalability, and an engaging user experience. The platform includes essential e-commerce features such as category browsing, product detail views, shopping cart management
