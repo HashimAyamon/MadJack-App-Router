@@ -6,7 +6,9 @@ Mad Jack is a modern e-commerce application built with Next.js app Router, desig
 
 This project demonstrates the use of Next.js app router
 Features
-.......................
+
+
+
 Responsive Design: Works flawlessly on all devices.
 Product Categories: Browse items by categories.
 Product Details Page: View detailed information for individual products.
